@@ -353,6 +353,7 @@ input:focus,select:focus,textarea:focus{border-color:var(--navy-600);background:
 .site-footer a:hover{color:var(--gold-500)}
 .footer-brand .brand-icon{background:var(--gold-500);color:var(--navy-900);padding:.3rem}
 .footer-brand p{color:var(--navy-100);margin-top:1rem;max-width:36ch}
+.site-footer li, .site-footer p, .site-footer span { color: var(--navy-050); }
 .footer-bottom{border-top:1px solid rgba(255,255,255,.12);padding-top:1.6rem;display:flex;justify-content:space-between;gap:1rem;flex-wrap:wrap;color:var(--navy-100);font-size:.9rem}
 
 /* Breadcrumb */
