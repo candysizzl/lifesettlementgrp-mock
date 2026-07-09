@@ -15,6 +15,7 @@
   --gold-500:#c9a45a; /* SGI gold */
   --gold-100:#f4ead6;
   --gold-050:#faf5ea;
+  --muted-on-dark: rgba(255,255,255,.9);
   --ink:#2b0708;
   --ink-soft:#6b3b3b;
   --paper:#fffaf9;
