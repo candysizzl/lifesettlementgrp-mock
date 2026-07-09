@@ -1,18 +1,18 @@
 /* ==========================================================================
   The Settlement Group, Inc. — Design System 2026
-  Palette: Burgundy #60100f / #2b0708 · Gold #c9a45a · Paper #fffaf9
+  Palette: SGI navy #2e5b7c · SGI deep navy #1e3d57 · SGI gold #c9a45a · Paper #fffaf9
   Type: Fraunces (display) · Inter Tight (body)
   ========================================================================== */
 
 :root{
-  --navy-900:#2b0708;
-  --navy-800:#60100f;
-  --navy-700:#7a1b1a;
-  --navy-600:#94433f;
-  --navy-100:#f4e6e6;
-  --navy-050:#fff9f9;
+  --navy-900:#1e3d57; /* SGI deep navy */
+  --navy-800:#2e5b7c; /* SGI navy */
+  --navy-700:#3b6f8f;
+  --navy-600:#5489a6;
+  --navy-100:#e9f1f6;
+  --navy-050:#f7fbfd;
   --gold-600:#b08c42;
-  --gold-500:#c9a45a;
+  --gold-500:#c9a45a; /* SGI gold */
   --gold-100:#f4ead6;
   --gold-050:#faf5ea;
   --ink:#2b0708;
